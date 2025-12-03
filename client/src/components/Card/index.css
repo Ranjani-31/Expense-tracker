@@ -1,0 +1,12 @@
+.expense{
+    background-color: rgb(255, 186, 186);
+    color:rgb(58, 0, 0);
+    border: 1px solid rgb(141, 0, 0) !important;
+    width:30%;
+}
+.income{
+    background-color: rgba(161, 255, 161, 0.966);
+    color:rgb(0, 58, 0);
+    border: 1px solid rgb(0, 141, 0) !important;
+    width:30%;
+}
